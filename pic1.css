@@ -1,0 +1,25 @@
+#back {
+    background-color: black;
+    color: aliceblue;
+    font-size: 25px;
+    border-radius: 10px;
+    width: 10%;
+   
+}
+body {
+    background: cover;
+    background-position: center;
+}
+#tag {
+    font-size: 30px;
+    width:100%;
+}
+canvas {
+    border: 5px solid black;
+    border-radius: 20px;
+    box-shadow: 10px 10px 10px purple;
+    margin-top: 80px;
+}
+#status,#number_objectsS{
+    font-size: 20px;
+}
